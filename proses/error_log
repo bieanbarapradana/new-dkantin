@@ -1,0 +1,13 @@
+[10-Oct-2016 04:52:38 UTC] PHP Warning:  array_combine() expects parameter 1 to be array, null given in /home/dkantinc/public_html/proses/hasil-pesanan.php on line 27
+[10-Oct-2016 04:52:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/dkantinc/public_html/proses/hasil-pesanan.php on line 27
+[10-Oct-2016 04:52:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dkantinc/public_html/proses/hasil-pesanan.php:27) in /home/dkantinc/public_html/proses/hasil-pesanan.php on line 41
+[24-Oct-2016 11:40:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dkantinc/public_html/proses/hasil-pesanan.php:38) in /home/dkantinc/public_html/proses/hasil-pesanan.php on line 53
+[24-Oct-2016 11:44:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dkantinc/public_html/proses/hasil-pesanan.php:43) in /home/dkantinc/public_html/proses/hasil-pesanan.php on line 58
+[24-Oct-2016 11:46:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dkantinc/public_html/proses/hasil-pesanan.php:43) in /home/dkantinc/public_html/proses/hasil-pesanan.php on line 61
+[26-Oct-2016 00:02:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dkantinc/public_html/proses/hasil-pesanan.php:43) in /home/dkantinc/public_html/proses/hasil-pesanan.php on line 61
+[28-Oct-2016 12:31:46 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/dkantinc/public_html/proses/hasil-login.php on line 9
+[28-Oct-2016 12:31:46 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/dkantinc/public_html/proses/hasil-login.php on line 10
+[28-Oct-2016 12:32:19 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/dkantinc/public_html/proses/hasil-login.php on line 9
+[28-Oct-2016 12:32:19 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/dkantinc/public_html/proses/hasil-login.php on line 10
+[28-Oct-2016 12:32:53 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/dkantinc/public_html/proses/hasil-login.php on line 9
+[28-Oct-2016 12:32:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/dkantinc/public_html/proses/hasil-login.php on line 10

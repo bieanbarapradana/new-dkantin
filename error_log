@@ -1,0 +1,35 @@
+[24-Oct-2016 11:34:46 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/dkantinc/public_html/include/koneksi.php on line 4
+[24-Oct-2016 11:34:46 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/dkantinc/public_html/include/koneksi.php on line 5
+[24-Oct-2016 11:34:46 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/dkantinc/public_html/pages/kategori.php on line 17
+[24-Oct-2016 11:34:46 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/dkantinc/public_html/pages/kategori.php on line 17
+[24-Oct-2016 11:34:46 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/dkantinc/public_html/pages/kategori.php on line 18
+[24-Oct-2016 11:34:46 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/dkantinc/public_html/default/index_before.php on line 379
+[24-Oct-2016 11:34:46 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/dkantinc/public_html/default/index_before.php on line 379
+[24-Oct-2016 11:34:46 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/dkantinc/public_html/default/index_before.php on line 381
+[24-Oct-2016 11:34:46 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/dkantinc/public_html/default/index_before.php on line 574
+[24-Oct-2016 11:34:46 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/dkantinc/public_html/default/index_before.php on line 574
+[24-Oct-2016 11:34:46 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/dkantinc/public_html/default/index_before.php on line 576
+[24-Oct-2016 11:34:46 UTC] PHP Warning:  mysql_query(): Access denied for user ''@'localhost' (using password: NO) in /home/dkantinc/public_html/default/index_before.php on line 738
+[24-Oct-2016 11:34:46 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/dkantinc/public_html/default/index_before.php on line 738
+[24-Oct-2016 11:34:46 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/dkantinc/public_html/default/index_before.php on line 740
+[27-Oct-2016 00:00:25 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/dkantinc/public_html/pages/menu-header.php on line 40
+[27-Oct-2016 00:00:28 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/dkantinc/public_html/pages/menu-header.php on line 40
+[27-Oct-2016 00:00:32 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/dkantinc/public_html/pages/menu-header.php on line 40
+[27-Oct-2016 00:00:38 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/dkantinc/public_html/pages/menu-header.php on line 40
+[27-Oct-2016 00:00:54 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/dkantinc/public_html/pages/menu-header.php on line 40
+[27-Oct-2016 00:01:23 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/dkantinc/public_html/pages/menu-header.php on line 40
+[27-Oct-2016 00:01:59 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/dkantinc/public_html/pages/menu-header.php on line 40
+[27-Oct-2016 00:02:34 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/dkantinc/public_html/pages/menu-header.php on line 40
+[27-Oct-2016 00:03:15 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/dkantinc/public_html/pages/menu-header.php on line 40
+[27-Oct-2016 00:04:20 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/dkantinc/public_html/pages/menu-header.php on line 40
+[27-Oct-2016 00:04:23 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/dkantinc/public_html/pages/menu-header.php on line 40
+[27-Oct-2016 00:04:29 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/dkantinc/public_html/pages/menu-header.php on line 40
+[27-Oct-2016 00:04:31 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/dkantinc/public_html/pages/menu-header.php on line 40
+[27-Oct-2016 00:04:33 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/dkantinc/public_html/pages/menu-header.php on line 40
+[27-Oct-2016 00:04:39 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/dkantinc/public_html/pages/menu-header.php on line 40
+[27-Oct-2016 00:04:42 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/dkantinc/public_html/pages/menu-header.php on line 40
+[27-Oct-2016 00:04:56 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/dkantinc/public_html/pages/menu-header.php on line 40
+[27-Oct-2016 00:05:41 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/dkantinc/public_html/pages/menu-header.php on line 40
+[27-Oct-2016 00:09:46 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/dkantinc/public_html/pages/menu-header.php on line 40
+[27-Oct-2016 00:10:01 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/dkantinc/public_html/pages/menu-header.php on line 40
+[27-Oct-2016 00:13:07 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/dkantinc/public_html/pages/menu-header.php on line 40
